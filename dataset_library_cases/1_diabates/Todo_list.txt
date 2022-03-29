@@ -1,0 +1,9 @@
+
+1. dataset analysis
+2. categorize factors
+3. plotting
+4. make deep learning
+5. plotting linear regression  
+
+
+
